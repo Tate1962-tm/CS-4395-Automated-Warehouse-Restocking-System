@@ -2,7 +2,7 @@
 
 **CS 4395 — Independent Study | Texas State University**
 **Student:** Tatenda Machirori (`qgr28@txstate.edu`)
-**Supervisor:** Dr. Klepetko Randall
+**Supervisor:** Dr Ahmed Shibbir
 **Semester:** Summer 2026
 
 ---
